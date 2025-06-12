@@ -6,9 +6,9 @@
 ## 👥 Anggota Tim
 | ID Peserta   | Nama Lengkap                             | Institusi             |
 |--------------|-------------------------------------------|------------------------|
-| A251YBM006   | Abil Khairi                               | Universitas            |
+| A251YBM006   | Abil Khairi                               | Universitas Malikussaleh            |
 | A299YBM348   | Muhammad Rizki                            | Universitas Pendidikan Indenesia            |
-| A200XBF416   | Ramadhani Sarah Alicya Bilqis             | Universitas            |
+| A200XBF416   | Ramadhani Sarah Alicya Bilqis             | Universitas Diponegoro            |
 | A248YBM468   | Steven C Michael                          | Universitas Lampung    |
 
 ---
@@ -28,7 +28,11 @@ Pasar properti di Jakarta sangat dinamis namun sering kali tidak transparan. Ban
 Tujuan kami adalah menghadirkan pengalaman transaksi properti yang lebih **cerdas, efisien, dan adil**.
 
 ---
+## 🖥️ Demo
+- Video/Foto
+- Realestica dapat diakses pada tautan berikut: [Realestica Website](https://realestica.netlify.app/)
 
+--
 ## 🧩 Arsitektur Proyek
 Diagram arsitektur Realestica
 ![image](https://github.com/user-attachments/assets/291e37cd-6e3e-46b5-b4da-a214fbaf22ad)
