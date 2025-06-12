@@ -4,12 +4,14 @@
 **Tema**: Solusi Cerdas untuk Masa Depan yang Lebih Baik
 
 ## 👥 Anggota Tim
-| ID Peserta   | Nama Lengkap                             | Institusi             |
-|--------------|-------------------------------------------|------------------------|
-| A251YBM006   | Abil Khairi                               | Universitas Malikussaleh            |
-| A299YBM348   | Muhammad Rizki                            | Universitas Pendidikan Indenesia            |
-| A200XBF416   | Ramadhani Sarah Alicya Bilqis             | Universitas Diponegoro            |
-| A248YBM468   | Steven C Michael                          | Universitas Lampung    |
+## 📋 Daftar Peserta Realestica
+
+| ID Peserta   | Nama Lengkap                             | Institusi                          | 📞 Kontak                                                                 |
+|--------------|-------------------------------------------|------------------------------------|--------------------------------------------------------------------------|
+| A251YBM006   | Abil Khairi                               | Universitas Malikussaleh           | ✉️ abil@example.com  <br>🔗 [LinkedIn](https://linkedin.com/in/abilkhairi) <br>📸 [@abil_ig](https://instagram.com/abil_ig) |
+| A299YBM348   | Muhammad Rizki                            | Universitas Pendidikan Indonesia   | ✉️ mrizki135790@gmail.com <br>🔗 [LinkedIn](linkedin.com/in/rizki-muhammad-32b4b4203/) <br>📸 [@krng_kng](https://instagram.com/rizki.ig) |
+| A200XBF416   | Ramadhani Sarah Alicya Bilqis             | Universitas Diponegoro             | ✉️ sarah@example.com <br>🔗 [LinkedIn](https://linkedin.com/in/sarahbilqis) <br>📸 [@sarah.ig](https://instagram.com/sarah.ig) |
+| A248YBM468   | Steven C Michael                          | Universitas Lampung                | ✉️ steven@example.com <br>🔗 [LinkedIn](https://linkedin.com/in/stevencm) <br>📸 [@steven.ig](https://instagram.com/steven.ig) |
 
 ---
 
