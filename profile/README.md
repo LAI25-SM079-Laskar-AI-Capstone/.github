@@ -1,4 +1,4 @@
-# 🏠 Realestica – Solusi Cerdas Prediksi & Rekomendasi Properti
+# Realestica – Solusi Cerdas Prediksi & Rekomendasi Properti
 
 **ID Grup**: SM079-LAI  
 **Tema**: Solusi Cerdas untuk Masa Depan yang Lebih Baik  
