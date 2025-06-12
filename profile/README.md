@@ -1,48 +1,73 @@
 # 🏠 Realestica – Solusi Cerdas Prediksi & Rekomendasi Properti
 
 **ID Grup**: SM079-LAI  
-**Tema**: Solusi Cerdas untuk Masa Depan yang Lebih Baik
+**Tema**: Solusi Cerdas untuk Masa Depan yang Lebih Baik  
+
+---
+
+## 📚 Daftar Isi
+- [👥 Anggota Tim](#-anggota-tim)
+- [📌 Latar Belakang](#-latar-belakang)
+- [🖥️ Demo](#️-demo)
+- [🧩 Arsitektur Proyek](#-arsitektur-proyek)
+  - [1. 📦 Data Scraper](#1--data-scraper)
+  - [2. 🤖 Machine Learning](#2--machine-learning)
+  - [3. 🔌 API Manajemen Properti](#3--api-manajemen-properti)
+  - [4. 🔮 API Prediksi Harga](#4--api-prediksi-harga)
+  - [5. 🧭 Sistem Rekomendasi](#5--sistem-rekomendasi)
+  - [6. 🎨 Frontend Realestica](#6--frontend-realestica)
+
+---
 
 ## 👥 Anggota Tim
-## 📋 Daftar Peserta Realestica
 
-| ID Peserta   | Nama Lengkap                             | Institusi                          | 📞 Kontak                                                                 |
-|--------------|-------------------------------------------|------------------------------------|--------------------------------------------------------------------------|
-| A251YBM006   | Abil Khairi                               | Universitas Malikussaleh           | ✉️ abil@example.com  <br>🔗 [LinkedIn](https://linkedin.com/in/abilkhairi) <br>📸 [@abil_ig](https://instagram.com/abil_ig) |
-| A299YBM348   | Muhammad Rizki                            | Universitas Pendidikan Indonesia   | ✉️ mrizki135790@gmail.com <br>🔗 [LinkedIn](linkedin.com/in/rizki-muhammad-32b4b4203/) <br>📸 [@krng_kng](https://instagram.com/rizki.ig) |
-| A200XBF416   | Ramadhani Sarah Alicya Bilqis             | Universitas Diponegoro             | ✉️ sarah@example.com <br>🔗 [LinkedIn](https://linkedin.com/in/sarahbilqis) <br>📸 [@sarah.ig](https://instagram.com/sarah.ig) |
-| A248YBM468   | Steven C Michael                          | Universitas Lampung                | ✉️ steven@example.com <br>🔗 [LinkedIn](https://linkedin.com/in/stevencm) <br>📸 [@steven.ig](https://instagram.com/steven.ig) |
+| ID Peserta   | Nama Lengkap                             | Institusi                          | Kontak                                                                 |
+|--------------|-------------------------------------------|------------------------------------|------------------------------------------------------------------------|
+| A251YBM006   | Abil Khairi                               | Universitas Malikussaleh           | [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abil@example.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abilkhairi) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/abil_ig) |
+| A299YBM348   | Muhammad Rizki                            | Universitas Pendidikan Indonesia   | [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mrizki135790@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rizki-muhammad-32b4b4203) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rizki.ig) |
+| A200XBF416   | Ramadhani Sarah Alicya Bilqis             | Universitas Diponegoro             | [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarah@example.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarahbilqis) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sarah.ig) |
+| A248YBM468   | Steven C Michael                          | Universitas Lampung                | [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:steven@example.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/stevencm) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/steven.ig) |
+
+
 
 ---
 
 ## 📌 Latar Belakang
 
-Pasar properti di Jakarta sangat dinamis namun sering kali tidak transparan. Banyak platform properti belum mengintegrasikan kecerdasan buatan untuk membantu pengguna menilai kewajaran harga maupun mendapatkan rekomendasi properti yang relevan.
+Pasar properti di Jakarta sangat dinamis namun belum sepenuhnya transparan. Banyak platform belum memanfaatkan kecerdasan buatan (AI) untuk membantu pengguna:
 
-**Realestica** hadir sebagai solusi prediksi harga rumah dan sistem rekomendasi properti berbasis **machine learning**, yang mempertimbangkan:
+- Menilai kewajaran harga rumah
+- Mendapatkan rekomendasi properti yang relevan
 
-- Spesifikasi rumah
-- Fasilitas tambahan
-- Faktor lingkungan sekitar
-- Legalitas properti
-- Akses ke fasilitas umum
+### 🎯 Solusi: **Realestica**
+Realestica adalah platform prediksi harga rumah & sistem rekomendasi berbasis **Machine Learning**, dengan mempertimbangkan:
 
-Tujuan kami adalah menghadirkan pengalaman transaksi properti yang lebih **cerdas, efisien, dan adil**.
+- 🏠 Spesifikasi rumah
+- 🏢 Fasilitas tambahan
+- 🌳 Faktor lingkungan sekitar
+- 📜 Legalitas properti
+- 🚇 Akses ke fasilitas umum
+
+Tujuan kami adalah menciptakan transaksi properti yang **cerdas, efisien, dan adil**.
 
 ---
-## 🖥️ Demo
-- Video/Foto
-- Realestica dapat diakses pada tautan berikut: [Realestica Website](https://realestica.netlify.app/)
 
---
+## 🖥️ Demo
+
+- 📸 Video & Foto dokumentasi
+- 🌐 Website: [https://realestica.netlify.app](https://realestica.netlify.app)
+
+---
+
 ## 🧩 Arsitektur Proyek
-Diagram arsitektur Realestica
+
 ![image](https://github.com/user-attachments/assets/291e37cd-6e3e-46b5-b4da-a214fbaf22ad)
 
-Realestica terdiri dari beberapa komponen utama:
+---
 
-### 1. 📦 [House Property Data Scraper](https://github.com/MuhammadRizki8/house-property-data-scraper)
-Web scraper untuk mengumpulkan data properti dari [Rumah123.com](https://www.rumah123.com).  
+### 1. 📦 [Data Scraper](https://github.com/MuhammadRizki8/house-property-data-scraper)
+
+Web scraper untuk mengambil data properti dari [Rumah123.com](https://www.rumah123.com)  
 > ⚠️ Hanya untuk keperluan edukasi (Capstone Project Laskar AI).
 
 **Teknologi**:
@@ -54,77 +79,71 @@ Web scraper untuk mengumpulkan data properti dari [Rumah123.com](https://www.rum
 
 ---
 
-### 2. 🤖 Realestica Machine Learning
+### 2. 🤖 Machine Learning
 
-Pengembangan model machine learning untuk prediksi harga rumah di wilayah Jakarta.
+Model ML untuk prediksi harga rumah wilayah Jakarta.
 
-**Tahapan Utama**:
-- 📄 *Data Cleaning* (ekstraksi fasilitas, spesifikasi, POI, lokasi)
+**Langkah-langkah**:
+- 📄 *Data Cleaning* (fasilitas, lokasi, POI)
 - 📊 *Exploratory Data Analysis*
-- 🔍 *Feature Engineering & Selection*
 - 🧠 *Model Training & Evaluation*
-- 💾 *Model Deployment*
+- 🚀 *Deployment*
 
 **Dataset**:  
-> 50,464 baris dan 57 kolom properti (Jakarta area)
+> 50.464 baris, 57 kolom properti (Jakarta area)
 
 ---
 
-### 3. 🔌 Realestica Property Management API
+### 3. 🔌 API Manajemen Properti
 
-Sistem backend berbasis **FastAPI** untuk CRUD properti dan integrasi model prediksi.
+Backend FastAPI untuk operasi CRUD properti & integrasi model prediksi.
 
-🔗 **Live Demo**:  
-[https://realesticebe-production.up.railway.app/docs](https://realesticebe-production.up.railway.app/docs)
+🔗 [API Docs](https://realesticebe-production.up.railway.app/docs)
 
 **Fitur**:
-- ✅ CRUD properti
+- ✅ Tambah, edit, hapus properti
 - 🔍 Filtering & sorting
-- 📊 Statistik properti
+- 📈 Statistik properti
 - 🧠 Prediksi harga rumah
-- 🔁 Pagination, Health check, CORS, Validasi Pydantic
+- 🔁 Pagination, health check, validasi
 
 **Stack**:
-- FastAPI
-- SQLAlchemy
-- PostgreSQL
-- Scikit-learn
-- Uvicorn
+- FastAPI, SQLAlchemy, PostgreSQL, Uvicorn, Scikit-learn
 
 ---
 
-### 4. 🔮 Realestica Price Prediction API
+### 4. 🔮 API Prediksi Harga
 
-API prediksi harga properti berdasarkan 39+ fitur rumah, lokasi, dan fasilitas.
+API untuk prediksi harga properti berdasarkan 39+ fitur.
 
-**Fitur Unggulan**:
-- ⚡ Fast prediction (preloaded model)
-- 🎯 Akurasi tinggi
-- 📍 Lokasi-aware (Jakarta Barat, Timur, Selatan, Utara, Pusat)
-- 🔐 Input divalidasi otomatis
+**Fitur**:
+- ⚡ Prediksi cepat (model preloaded)
+- 📍 Lokasi-aware: Jakarta Barat, Timur, Selatan, Utara, Pusat
+- 🧠 Akurasi tinggi
+- 🔐 Validasi input otomatis
 
 ---
 
-### 5. 🧭 Realestica Recommendation System
+### 5. 🧭 Sistem Rekomendasi
 
 Sistem rekomendasi properti berdasarkan kemiripan dan kriteria pencarian.
 
-🔗 **Live Demo**:  
-[https://realestica-recommendation-system-production.up.railway.app](https://realestica-recommendation-system-production.up.railway.app)
+🔗 [Live Recommendation System](https://realestica-recommendation-system-production.up.railway.app)
 
 **Fitur**:
-- 🧬 Similar property matching
-- 🔎 Pencarian berbasis kriteria (fitur, lokasi, harga, dsb)
-- 📈 Statistik performa sistem
-- 🧠 Backend ML untuk clustering & similarity score
+- 🧬 Pencarian properti serupa
+- 🗺️ Kriteria lokasi, harga, fitur
+- 📊 Statistik performa sistem
+- 🤖 Backend ML untuk clustering & similarity scoring
 
 ---
 
-### 6. 🎨 Realestica Frontend
+### 6. 🎨 Frontend Realestica
 
-Antarmuka pengguna berbasis **React**, dengan teknologi modern:
-🔗 **Live Demo**:  
-[https://realestica.netlify.app/](https://realestica.netlify.app/)
+Tampilan antarmuka pengguna berbasis React.
+
+🔗 [Frontend Website](https://realestica.netlify.app)
+
 **Stack**:
 - React
 - TypeScript
@@ -132,5 +151,4 @@ Antarmuka pengguna berbasis **React**, dengan teknologi modern:
 - TailwindCSS
 
 ---
-
 
