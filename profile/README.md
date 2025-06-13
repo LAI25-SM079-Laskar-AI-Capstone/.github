@@ -2,6 +2,7 @@
 
 **ID Grup**: SM079-LAI  
 **Tema**: Solusi Cerdas untuk Masa Depan yang Lebih Baik  
+![LAI25-SM079](https://github.com/user-attachments/assets/1f8a2cda-23ba-4055-be18-3003898f9026)
 
 ---
 
